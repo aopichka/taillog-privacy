@@ -1,4 +1,4 @@
-Privacy Policy for TailLog
+# Privacy Policy for TailLog
 Last updated: March 1, 2026
 
 TailLog ("we," "us," or "our") is a plane spotting logbook app. This policy explains what information we collect, how we use it, and your rights.
